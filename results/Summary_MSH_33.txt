@@ -1,0 +1,5 @@
+Parameter;Value
+Instance;33
+Algorithm;MSH
+Feasible;1
+ObjectiveFunction;61.64448991362937

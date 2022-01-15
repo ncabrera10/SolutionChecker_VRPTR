@@ -1,0 +1,16 @@
+Instance:8
+----------------Constraints----------------
+Route walking distance limit: true
+Route duration constraints: true
+Route start-end constraints: true
+The solution is valid
+----------------ObjectiveFunction----------------
+ObjectiveFunction: 36.85038991375106
+----------------Routes----------------
+RouteID - ObjectiveFunction
+91 - 17.962133504570737
+92 - 18.888256409180315
+----------------Attributes----------------
+RouteID - ObjectiveFunction
+Route 91:410.5128162730132 - 17.962133504570737 - 35.924267009141474 - 4.305903284258114 - 64.58854926387171 - 310.0
+Route 92:372.5639137422957 - 18.888256409180315 - 37.77651281836063 - 3.652493394929004 - 54.78740092393506 - 280.0

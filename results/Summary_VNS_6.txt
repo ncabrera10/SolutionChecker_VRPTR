@@ -1,0 +1,5 @@
+Parameter;Value
+Instance;6
+Algorithm;VNS
+Feasible;1
+ObjectiveFunction;43.7626687813637
